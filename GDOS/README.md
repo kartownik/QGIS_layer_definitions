@@ -1,5 +1,6 @@
 # WFS GDOŚ (http://sdi.gdos.gov.pl/wfs)
-Definicja warstwy QGIS, która dodaje warstwy obszarowych form ochrony przyrody z WFS Generalnej Dyrekcji Ochrony Środowiska
+Definicja warstwy QGIS, która dodaje warstwy obszarowych form ochrony przyrody z WFS Generalnej Dyrekcji Ochrony Środowiska.
+Definicja zawiera prostą stylizację.
 
 GDOS: Stanowiska Dokumentacyjne
 GDOS: Uzytki Ekologiczne
